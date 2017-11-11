@@ -47,7 +47,7 @@ h6 {
 }
 a,
 a:hover {
-	color: #fcd088;
+	color: #dc8b05;
 	-webkit-transition: color 0.3s;
 	transition: color 0.3s;
 }
@@ -110,7 +110,7 @@ input[type="reset"],
 input[type="submit"] {
 	font-size: 14px;
 	padding: 12px 30px;
-	border: 1px solid #fcd088;
+	border: 1px solid #929292;
 	color: #fcd088;
 	text-transform: uppercase;
 	letter-spacing: 4px;
@@ -179,7 +179,7 @@ input[type="search"],
 input[type="tel"],
 textarea {
 	color: #666;
-	border: 1px solid #ebebeb;
+	border: 1px solid #929292;
 	border-radius: 3px;
 	font-weight: 400;
 }
